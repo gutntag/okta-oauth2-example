@@ -1,0 +1,7 @@
+okta:
+  oauth2:
+    issuer: https://dev-9589469.okta.com/oauth2/default
+    audience: api://default
+    groups-claim: roles
+    client-id: default
+    clien-secret: default

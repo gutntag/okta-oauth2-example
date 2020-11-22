@@ -1,4 +1,4 @@
-package com.stahlhut.oktaexample.web;
+package com.stahlhut.oktaexample.web.resources;
 
 import lombok.*;
 
